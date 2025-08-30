@@ -7,8 +7,6 @@
 ## 🎓 About Me
 Computer Science student at **Cavite State University** in the Philippines, passionate about exploring all aspects of software development and technology.
 
-Here are some ideas to get you started:
-
 - 🔭 I'm currently working on **expanding my programming skills across multiple languages**
 - 🌱 I'm currently learning **Java and Python** (diving deeper into these powerful languages)
 - 👯 I'm looking to collaborate on **any exciting development projects**
