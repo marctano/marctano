@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - Exploring new technologies and frameworks
 
 ## 📊 GitHub Stats
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marctano&show_icons=true&theme=radical)
 
 ---
 
