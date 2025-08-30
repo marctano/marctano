@@ -55,6 +55,6 @@ Computer Science student at **Cavite State University** in the Philippines, pass
 
 ---
 
-*"The best way to learn programming is by practicing programming."* 💻
+*Hard work beats talent, when talent fails to work hard.* 💻
 
 **Let's connect and build something amazing together!** 🚀
