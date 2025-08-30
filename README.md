@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate on **any exciting development projects**
 - 🤔 I'm looking for help with **advanced programming concepts and best practices**
 - 💬 Ask me about **web development, mobile apps, or database design**
-- 📫 How to reach me: marctano0711@gmail.com
+- 📫 How to reach me: **marctano0711@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love playing chess ♟️ and lifting heavy weights 💪**
 
